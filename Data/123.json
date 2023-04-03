@@ -1,0 +1,24 @@
+{
+	"student" : [
+        {
+			"rolesUndertaken": "English rep",
+			"Experience Period": "2020.11.29 ~ 2021.6.30"
+		},
+		{
+			"rolesUndertaken": "Volunteer",
+			"Experience Period": "2020.01.18 ~ 2020.3.30"
+		},
+		{
+			"rolesUndertaken": "Math rep",
+			"Experience Period": "2021.01.18 ~ 2021.5.30"
+		},
+		{
+			"rolesUndertaken": "Class rep",
+			"Experience Period": "2022.11.18 ~ 2020.12.30"
+		},
+		{
+			"rolesUndertaken": "Java rep",
+			"Experience Period": "2023.01.18 ~ 2023.3.30"
+		}
+	]
+}
